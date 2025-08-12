@@ -104,6 +104,6 @@ Mean Squared Error (SVR): 130941169.50495163
 
 ![alt text](image-15.png)
 
-# Deplyement
+# Deployement
 
 ![alt text](image-16.png)
